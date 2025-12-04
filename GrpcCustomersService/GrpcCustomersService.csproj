@@ -12,6 +12,11 @@
 
   <ItemGroup>
     <PackageReference Include="Grpc.AspNetCore" Version="2.64.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hulujan_Iulia_Petruta_Lab2M\Hulujan_Iulia_Petruta_Lab2M.csproj" />
   </ItemGroup>
 
 </Project>
